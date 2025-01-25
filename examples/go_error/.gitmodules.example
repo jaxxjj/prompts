@@ -1,0 +1,6 @@
+[submodule "api/proto/galaxy-proto"]
+	path = api/proto/galaxy-proto
+	url = https://github.com/NFTGalaxy/galaxy-proto.git
+[submodule "pkg/internal/galaxy-errors"]
+	path = pkg/internal/galaxy-errors
+	url = https://github.com/NFTGalaxy/galaxy-errors.git
