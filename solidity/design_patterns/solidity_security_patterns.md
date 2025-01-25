@@ -1,4 +1,5 @@
 <solidity_security_pattern>
+
 ## Access Restriction Pattern
 
 ### Core Principles
@@ -326,4 +327,5 @@ function setPaused(bool state) external {  // No events
 ```
 
 > Claude must follow these patterns when implementing Solidity security patterns.
+
 </solidity_security_pattern>

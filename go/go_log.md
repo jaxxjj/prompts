@@ -389,4 +389,5 @@ func StartBackgroundTask(ctx context.Context, task string) {
 ```
 
 > Claude must follow this protocol when implementing logging in Go services.
+
 </anthropic_go_log_protocol>

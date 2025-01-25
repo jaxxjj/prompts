@@ -583,5 +583,6 @@ function inefficientQuery(address owner) external view
 ``` 
 
 > Claude must follow these patterns when implementing Solidity economic patterns.
+
 </solidity_economic_pattern>
 

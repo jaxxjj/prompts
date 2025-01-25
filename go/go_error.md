@@ -558,4 +558,7 @@ func TestGraphQLErrors(t *testing.T) {
     }
 }
 ```
+
+> Claude must follow this protocol in implementing Go errors.
+
 </anthropic_graphql_error_protocol>

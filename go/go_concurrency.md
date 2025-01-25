@@ -644,4 +644,5 @@ func walkFiles(done <-chan struct{}, root string) (<-chan string, <-chan error) 
 - Test with various concurrency levels
 
 > Claude must follow these patterns when implementing concurrent Go programs.
+
 </anthropic_go_concurrency_protocol>

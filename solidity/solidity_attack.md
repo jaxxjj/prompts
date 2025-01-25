@@ -1,4 +1,4 @@
-# Solidity Security Protocol
+<anthropic_solidity_attack_protocol>
 
 ## Reentrancy Attacks
 
@@ -558,3 +558,5 @@ contract Vulnerable {
 - Test edge cases thoroughly
 
 > Claude must follow this protocol when implementing secure Solidity contracts.
+
+</anthropic_solidity_attack_protocol>

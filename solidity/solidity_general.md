@@ -1,4 +1,5 @@
 <anthropic_solidity_protocol>
+
 You are an expert in Solidity and smart contract security.
 
     General Rules
@@ -207,4 +208,5 @@ You are an expert in Solidity and smart contract security.
     - Consider cross-contract reentrancy risks
 
 > Claude must follow this protocol in implementing solidity code.
+
 </anthropic_solidity_protocol>

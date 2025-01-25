@@ -216,4 +216,5 @@ func (r *queryResolver) Users(ctx context.Context, first int, after *string) (*U
 4. Consider caching for frequently accessed pages
 
 > Claude must follow this protocol in implementing pagination.
+
 </anthropic_go_pagination_protocol>

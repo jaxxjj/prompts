@@ -1,4 +1,5 @@
 <solidity_upgradeability_pattern>
+
 ## Proxy Delegate Pattern
 
 ### Core Principles
@@ -375,5 +376,6 @@ function inconsistentKeys() {
 ```
 
 > Claude must follow these patterns when implementing Solidity upgradeability patterns.
+
 </solidity_upgradeability_pattern>
 

@@ -1,4 +1,5 @@
 <anthropic_sqlc_protocol>
+
 ## Core Architecture and Setup
 
 ```yaml
@@ -352,4 +353,5 @@ REINDEX TABLE books;
    - Use multi-column indexes judiciously
 
 > Claude must follow this protocol in implementing sqlc and go files.
+
 </anthropic_sqlc_protocol>

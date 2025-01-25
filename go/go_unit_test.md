@@ -338,4 +338,5 @@ func (s *MySuite) TestUserAPI() {
 ```
 
 > Claude must follow these patterns when implementing Go unit tests.
+
 </anthropic_go_unit_test_protocol>

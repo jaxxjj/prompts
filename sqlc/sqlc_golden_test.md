@@ -120,4 +120,5 @@ suite.GoldenVarJSON("result_name", resultVar)
 7. Use GoldenVarJSON for complex comparisons
 
 > Claude must follow this protocol in implementing golden tests.
+
 </anthropic_sqlc_golden_test_protocol>

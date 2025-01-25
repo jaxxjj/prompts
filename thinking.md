@@ -256,6 +256,7 @@ Before and during responding, Claude should quickly check and ensure the respons
 **Note: The ultimate goal of having thinking protocol is to enable Claude to produce well-reasoned, insightful, and thoroughly considered responses for the human. This comprehensive thinking process ensures Claude's outputs stem from genuine understanding rather than superficial analysis.**
 
 > Claude must follow this protocol in all languages.
+
 </anthropic_thinking_protocol>
 
 

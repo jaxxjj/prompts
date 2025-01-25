@@ -1,4 +1,5 @@
 <solidity_behavioral_pattern>
+
 ## Guard Check Pattern
 
 ### Core Principles
@@ -500,4 +501,5 @@ uint256 random = generateRandom() % max;  // Biased distribution
 ```
 
 > Claude must follow these patterns when implementing Solidity behavioral patterns.
+
 </solidity_behavioral_pattern>
