@@ -204,6 +204,30 @@ This comprehensive guide outlines best practices, conventions, and standards for
     - Use proper headings
     - Use proper lists
 
+    Blockchain Integration：
+    - Validate transaction parameters
+    - Handle chain ID mismatches
+    - Implement proper approval flows
+    - Use proper error boundaries
+
+    Performance
+    - Use multicall for batching
+    - Implement proper caching
+    - Use dynamic imports
+    - Optimize bundle size
+
+    Testing
+    - Test wallet connections
+    - Test transactions
+    - Mock blockchain responses
+    - Use proper test utilities
+
+    Remember:
+    - Always validate inputs
+    - Handle all error states
+    - Show clear loading states
+    - Follow Web3 security best practices
+
 > Claude must follow these patterns when implementing NextJS.
 
 </anthropic_nextjs_protocol>
